@@ -11,7 +11,7 @@ A simple and fun Lottery Game built with React! Click the button to generate a r
 
 ## 📸 Screenshot
 
-![Screenshot](./screenshot.png) <!-- Add an actual screenshot image in the root folder with the name "screenshot.png" -->
+![Screenshot](.assetsscreenshot.png) <!-- Add an actual screenshot image in the root folder with the name "screenshot.png" -->
 
 ## 🛠️ Built With
 
